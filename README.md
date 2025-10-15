@@ -1,5 +1,1 @@
-# CFD-
-# CFD
-# CFD- 
-# CFD-
-# cipolla
+This folder contains a list of the CFD scripts made by me
